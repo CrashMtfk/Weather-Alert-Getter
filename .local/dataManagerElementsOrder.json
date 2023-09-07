@@ -1,0 +1,49 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NoWarnings&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ProcessCities.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DT_Cities&Sequence_1",
+        "GetAwarnessLevel&Sequence_8",
+        "CN_AlertType&Sequence_9",
+        "CityIdx&Sequence_9",
+        "CN_AlertDescription&Sequence_9",
+        "CN_AlertAwarness&Sequence_9",
+        "GetAlertType&Sequence_8",
+        "GetAlertDescription&Sequence_8"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendToEmail.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "BodyMessage&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
