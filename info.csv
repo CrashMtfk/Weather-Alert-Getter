@@ -1,0 +1,41 @@
+﻿CityName,AlertAwarness,AlertType,AlertDescription
+Dubrovnik region,Moderate,"
+            Thunderstorm
+          ","
+    Severe thundershowers possible. lightning risk > 50 %
+  "
+Kvarner i Kvarneric region,Moderate,"
+            Wind
+          ","
+    Locally possible strong NW and SW wind, especially on the open sea, on the area of Rijeka and Kvarnerić possible fresh NE wind. Maximum wind gusts 35-40 knots  (65-75 km/h)
+  "
+Middle Dalmatia region,Moderate,"
+            Wind
+          ","
+    Locally possible strong NW and W wind, near the cost locally fresh NE wind. Maximum wind gusts 35-40 knots  (65-75 km/h)
+  "
+North Dalmatia region,Moderate,"
+            Wind
+          ","
+    Locally possible strong NW wind, especially on the open sea, near the cost possible fresh NE wind. Maximum wind gusts 35-40 knots  (65-75 km/h)
+  "
+South Dalmatia region,Moderate,"
+            Wind
+          ","
+    Fresh and strong NE wind, on the open sea locally possible strong NW wind. Maximum wind gusts 35-45 knots  (65-85 km/h)
+  "
+Split region,Moderate,"
+            Thunderstorm
+          ","
+    Severe thundershowers possible. lightning risk > 40 %
+  "
+Velebit channel region,Moderate,"
+            Wind
+          ","
+    Locally fresh NE wind. Maximum wind gusts 35-40 knots  (65-75 km/h)
+  "
+West Istrian coast region,Moderate,"
+            Wind
+          ","
+    Fresh and strong NE, on the south area NW wind. Maximum wind gusts 35-40 knots  (65-75 km/h)
+  "
